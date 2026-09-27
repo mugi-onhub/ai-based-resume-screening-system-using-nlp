@@ -1,10 +1,26 @@
-# AI-Based Resume Screening System Using NLP
+# CAREERPILOT: AI-Based Resume Screening System Using NLP
 
-An end-to-end NLP-powered application to screen, rank, and explain resume relevance against job descriptions using traditional lexical matching (TF-IDF), semantic embeddings (Sentence Transformers), and deep contextual representations (BERT).
+<div align="center">
+
+[![Live App](https://img.shields.io/badge/Live_App-Vercel-black?style=for-the-badge&logo=vercel)](https://careerpilot-ai-nlp.vercel.app)
+[![Backend API](https://img.shields.io/badge/Backend_API-Render-46E3B7?style=for-the-badge&logo=render)](https://careerpilot-api-n37s.onrender.com)
+[![API Docs](https://img.shields.io/badge/API_Docs-Swagger-85EA2D?style=for-the-badge&logo=swagger)](https://careerpilot-api-n37s.onrender.com/docs)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue?style=for-the-badge&logo=python)](https://python.org)
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
+
+**Next-Generation AI Candidate Screening & Explainable Job Fit Platform**
+
+[🌐 Open Live Web App](https://careerpilot-ai-nlp.vercel.app) • [📖 Interactive Swagger API Docs](https://careerpilot-api-n37s.onrender.com/docs)
+
+</div>
 
 ---
 
-## 📌 Features
+## 📌 Overview
+
+**CAREERPILOT** is an enterprise-grade recruitment intelligence platform that replaces opaque, keyword-stuffed "black box" ATS screening with an explainable **Tri-Model NLP Ensemble** (TF-IDF + Sentence-Transformers + BERT) and a transparent **100-point multi-criteria Job Fit scoring formula**.
+
 
 - **Multi-Format Ingestion**: Robust text extraction from PDF (`PyMuPDF`), Word (`python-docx`), and plain text (`TXT`) files.
 - **NLP Matching Engines**:
