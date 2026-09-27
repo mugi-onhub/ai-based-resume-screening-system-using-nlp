@@ -1,0 +1,15 @@
+Daniel Osei
+Software Engineer
+
+Summary: Backend engineer with 4 years of experience in Java and C++, some
+exposure to Python scripting and SQL databases.
+
+Skills: Java, C++, SQL, Git, Docker, REST APIs
+
+Experience:
+- Developed backend services in Java for an e-commerce platform.
+- Wrote automated tests and used Git for version control.
+- Occasionally used Python for internal automation scripts.
+- Basic exposure to AWS for deploying containerized services.
+
+Education: B.Eng. Software Engineering

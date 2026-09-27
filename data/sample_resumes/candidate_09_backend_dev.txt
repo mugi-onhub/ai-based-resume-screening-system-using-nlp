@@ -1,0 +1,22 @@
+Pooja Hegde
+Backend & API Engineer
+
+Summary:
+Software Engineer with 3 years of experience in building distributed backend services, RESTful APIs, and database architectures using Node.js, Python, and PostgreSQL.
+
+Skills:
+Node.js, Python, FastAPI, Django, PostgreSQL, MongoDB, Redis, Docker, Git, Linux, REST API
+
+Experience:
+- Backend Engineer at AppScale (2021 - Present)
+  * Developed asynchronous REST APIs handling 5,000 requests/sec with FastAPI and PostgreSQL.
+  * Designed caching layers with Redis to reduce database query load by 40%.
+- Software Developer at WebCraft (2020 - 2021)
+  * Built customer portal web services with Node.js, Express, and MongoDB.
+
+Projects:
+- Microservices Payment Gateway
+  * Built secure transaction processing service with Docker and PostgreSQL.
+
+Education:
+Bachelor of Technology in Computer Science, 2020

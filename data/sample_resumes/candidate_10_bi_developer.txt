@@ -1,0 +1,22 @@
+Siddharth Joshi
+Business Intelligence & Data Visualization Specialist
+
+Summary:
+BI Developer with 4 years of experience building enterprise analytical solutions, ETL pipelines, and executive dashboards with Power BI, Tableau, and SQL.
+
+Skills:
+Power BI, Tableau, SQL, Excel, Python, Pandas, Snowflake, ETL, Data Warehousing, Git
+
+Experience:
+- Senior BI Consultant at Enterprise Insights (2021 - Present)
+  * Designed Snowflake data models and Star Schema dimensional cubes for enterprise reporting.
+  * Created executive-level Power BI dashboards used by Fortune 500 leadership.
+- Data Reporting Analyst at Global Logistics (2019 - 2021)
+  * Wrote optimized SQL queries and ETL scripts to automate operational metric delivery.
+
+Projects:
+- Supply Chain Performance Cockpit
+  * Built interactive Tableau dashboard integrating multi-region shipment metrics.
+
+Education:
+Bachelor of Science in Information Systems, 2019

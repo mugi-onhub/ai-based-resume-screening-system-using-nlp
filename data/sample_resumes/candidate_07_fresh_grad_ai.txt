@@ -1,0 +1,23 @@
+Rohan Verma
+AI & Data Science Graduate
+
+Summary:
+Enthusiastic recent graduate in Computer Science with a strong foundation in Python programming, machine learning, and data visualization. Eager to contribute to production ML solutions.
+
+Skills:
+Python, Scikit-learn, Pandas, NumPy, SQL, TensorFlow, Matplotlib, Seaborn, Git, Jupyter, Linux
+
+Experience:
+- Data Science Intern at CloudScale Labs (Jan 2023 - Jun 2023)
+  * Preprocessed tabular customer records and engineered features for baseline classification models.
+  * Implemented Random Forest and Logistic Regression baselines achieving 86% accuracy with Scikit-learn.
+  * Created Matplotlib and Seaborn visualization charts for weekly sprint reviews.
+
+Projects:
+- E-Commerce Product Recommendation Engine
+  * Developed collaborative filtering recommender in Python with Pandas and Scikit-learn.
+- Sentiment Analyzer for Product Reviews
+  * Built a text classification model with TF-IDF vectorization and Logistic Regression.
+
+Education:
+Bachelor of Technology in Computer Science & Engineering, 2023 (GPA: 3.8/4.0)

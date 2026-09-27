@@ -1,0 +1,23 @@
+Vikramaditya Rao
+MLOps & Cloud Infrastructure Engineer
+
+Summary:
+Cloud & MLOps Engineer with 4 years of experience designing automated CI/CD pipelines, containerizing ML models, and managing Kubernetes infrastructure across AWS and GCP.
+
+Skills:
+AWS, GCP, Docker, Kubernetes, MLOps, MLflow, CI/CD, Python, Terraform, Linux, Git, SQL, PyTorch
+
+Experience:
+- MLOps Engineer at CloudAI Systems (2021 - Present)
+  * Built continuous training and deployment pipelines with MLflow, Docker, and Kubernetes on AWS EKS.
+  * Reduced model deployment time from 3 days to 15 minutes using automated GitHub Actions CI/CD workflows.
+  * Managed infrastructure as code using Terraform on GCP and AWS.
+- Cloud DevOps Engineer at SoftGlobal (2019 - 2021)
+  * Maintained high-availability microservices using Docker containers and Linux shell scripting.
+
+Projects:
+- Automated Model Registry & Serving Platform
+  * Deployed open-source MLflow tracking server and Kubernetes autoscaling clusters for inference workloads.
+
+Education:
+Bachelor of Engineering in Information Technology, 2019

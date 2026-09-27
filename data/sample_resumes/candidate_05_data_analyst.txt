@@ -1,0 +1,23 @@
+Anjali Menon
+Data Analyst
+
+Summary:
+Detail-oriented Data Analyst with 3 years of experience in SQL querying, statistical data analysis, and creating business dashboards using Tableau and Power BI.
+
+Skills:
+SQL, Python, Pandas, NumPy, Excel, Tableau, Power BI, Matplotlib, Seaborn, PostgreSQL, Git
+
+Experience:
+- Data Analyst at RetailMetrics (2021 - Present)
+  * Designed and maintained 15+ automated Power BI and Tableau dashboards tracking revenue and marketing metrics.
+  * Wrote complex SQL queries and window functions in PostgreSQL to extract behavioral datasets.
+  * Performed exploratory data analysis and hypothesis testing in Python using Pandas and Seaborn.
+- Junior Analyst at FinServe (2020 - 2021)
+  * Automated weekly financial variance reports using Python and Excel macros, saving 12 hours weekly.
+
+Projects:
+- Customer Lifetime Value Dashboard
+  * Built an end-to-end Tableau dashboard visualizing retention cohorts and churn probabilities.
+
+Education:
+Bachelor of Science in Statistics, 2020

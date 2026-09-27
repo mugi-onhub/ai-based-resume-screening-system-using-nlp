@@ -1,0 +1,23 @@
+Data Scientist - Job Description
+
+We are looking for a Data Scientist with strong Python skills and experience
+in machine learning and NLP. The ideal candidate has hands-on experience with
+scikit-learn, TensorFlow or PyTorch, and has deployed models using Docker or
+cloud platforms such as AWS or Azure. Experience with SQL, data visualization
+(Power BI or Tableau), and version control (Git) is required. Familiarity with
+Streamlit or Flask for building demo applications is a plus. Strong communication
+skills and the ability to explain model results to non-technical stakeholders
+are essential.
+
+Responsibilities:
+- Build and evaluate machine learning models for business problems.
+- Clean and analyze large datasets using Python and SQL.
+- Communicate findings through dashboards and reports.
+- Collaborate with engineering to deploy models to production.
+
+Requirements:
+- 2+ years of experience with Python, scikit-learn, and SQL.
+- Experience with at least one deep learning framework (TensorFlow or PyTorch).
+- Familiarity with cloud platforms (AWS, Azure, or GCP).
+- Experience with Git and collaborative development.
+- Bachelor's degree in Computer Science, Statistics, or a related field.

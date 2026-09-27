@@ -1,0 +1,17 @@
+Aisha Rahman
+Data Scientist
+
+Summary: Data scientist with 3 years of experience building machine learning
+models in Python. Skilled in scikit-learn, TensorFlow, and NLP pipelines.
+
+Skills: Python, SQL, Machine Learning, TensorFlow, PyTorch, Docker, AWS,
+Git, Streamlit, Power BI
+
+Experience:
+- Built a customer churn prediction model using scikit-learn, improving
+  retention campaign targeting by 18%.
+- Deployed an NLP text-classification model to AWS using Docker containers.
+- Created interactive Streamlit dashboards for business stakeholders.
+- Used SQL daily to extract and transform data from a PostgreSQL warehouse.
+
+Education: B.Sc. Computer Science

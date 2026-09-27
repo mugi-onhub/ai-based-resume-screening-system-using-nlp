@@ -1,0 +1,23 @@
+Nithya Krishnan
+NLP Research Engineer
+
+Summary:
+AI Researcher specializing in Natural Language Processing, Transformer architectures, and Semantic Search. 3.5 years of experience in fine-tuning BERT models and building semantic embeddings.
+
+Skills:
+Python, PyTorch, HuggingFace, BERT, Transformers, NLP, Spacy, NLTK, FastAPI, Docker, SQL, Git, Linux, Streamlit
+
+Experience:
+- NLP Specialist at SemanticAI (2021 - Present)
+  * Fine-tuned domain-specific BERT and RoBERTa models for biomedical named entity recognition (NER), reaching 94.2% F1 score.
+  * Developed dense retrieval pipelines using Sentence-Transformers and vector indexing.
+  * Deployed low-latency NLP microservices using FastAPI and Docker.
+- AI Research Assistant at University Lab (2019 - 2021)
+  * Published 2 papers on transformer-based text summarization and cross-lingual embeddings.
+
+Projects:
+- Contextual Document Search Engine
+  * Built semantic resume and job description matching pipeline using PyTorch, BERT, and Streamlit.
+
+Education:
+Master of Science in Artificial Intelligence, 2021

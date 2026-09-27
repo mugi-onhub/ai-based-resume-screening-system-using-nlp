@@ -1,0 +1,26 @@
+Arun Kumar
+Senior Machine Learning Engineer
+
+Summary:
+Results-driven Senior ML Engineer with 5+ years of experience developing deep learning architectures, scalable LLM pipelines, and production NLP systems.
+
+Skills:
+Python, PyTorch, TensorFlow, Scikit-learn, Transformers, BERT, LLMs, LangChain, FastAPI, Docker, Kubernetes, AWS, SQL, Spark, Git
+
+Experience:
+- Senior ML Engineer at TechCorp (2021 - Present)
+  * Architected and deployed enterprise NLP document classification pipeline using BERT and PyTorch on AWS EKS, processing 2M+ docs daily.
+  * Optimized transformer inference latency by 45% using TensorRT and ONNX runtime.
+  * Mentored a squad of 4 junior data scientists and established ML CI/CD best practices with Docker and GitHub Actions.
+- Machine Learning Engineer at DataGen (2019 - 2021)
+  * Built predictive customer segmentation models using Scikit-Learn and PySpark on AWS.
+  * Implemented real-time recommendation API using FastAPI and Redis.
+
+Projects:
+- Generative AI Support Assistant
+  * Built an enterprise RAG system with LangChain, PyTorch, and Pinecone vector database.
+- Scalable Time Series Forecaster
+  * Developed deep learning LSTM model predicting warehouse supply demand with 92% accuracy.
+
+Education:
+Master of Science in Computer Science, 2019

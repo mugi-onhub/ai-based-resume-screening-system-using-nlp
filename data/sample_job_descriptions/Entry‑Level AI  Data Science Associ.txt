@@ -1,0 +1,33 @@
+Entry‑Level AI / Data Science Associate (MNC)
+
+We are looking for a recent graduate (0‑12 months experience) to join our Global AI & Analytics team in Bengaluru (hybrid). You will work with senior data scientists and engineers to turn business questions into data‑driven solutions.
+
+Key duties
+
+Load CSV/JSON data from our data lake, clean it, and create basic features (one‑hot encoding, scaling).
+Perform exploratory analysis and build simple visualisations (using Matplotlib/Seaborn/Plotly).
+Develop baseline machine‑learning models such as linear regression, logistic regression, decision trees, and K‑nearest neighbors with Scikit‑learn.
+Use pre‑trained Sentence‑Transformer embeddings (e.g., all‑MiniLM‑L6‑v2) for simple NLP tasks like text classification or similarity.
+Record model performance metrics (accuracy, F‑score, MAE, RMSE) and present findings in weekly team meetings.
+Write clean, documented Python scripts, use Git for version control, and participate in code reviews.
+Required background
+
+Bachelor’s degree in Computer Science, Statistics, Mathematics, or a related field (average GPA ≥ 3.0).
+Proficiency in Python (≥ 3.8) and comfortable with Jupyter notebooks.
+Basic understanding of supervised/unsupervised machine‑learning concepts and evaluation metrics.
+Experience with Pandas, NumPy, and handling CSV/JSON/Excel files.
+Ability to create visualisations with Matplotlib, Seaborn, or Plotly.
+Familiarity with tokenisation and pre‑trained embeddings for NLP.
+Basic Git workflow knowledge.
+Good analytical thinking, clear written communication, and eagerness to learn.
+Nice‑to‑have
+
+SQL query experience.
+Exposure to cloud services (AWS, GCP) and Docker.
+Introductory experience with PyTorch or TensorFlow.
+What we offer
+
+Mentorship from senior AI researchers.
+Access to online learning resources (Coursera, Udacity).
+Competitive salary + performance bonus, health benefits, and relocation assistance if needed.
+10:23 AM
