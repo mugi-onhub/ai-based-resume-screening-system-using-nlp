@@ -1,4 +1,10 @@
-const API_BASE = import.meta.env.VITE_API_BASE || (import.meta.env.PROD ? '/api' : 'http://localhost:8000/api');
+let rawBase = (import.meta.env.VITE_API_BASE || (import.meta.env.PROD ? '/api' : 'http://localhost:8000/api')).trim();
+if (rawBase.endsWith('/')) rawBase = rawBase.slice(0, -1);
+if (!rawBase.endsWith('/api') && !rawBase.startsWith('/api')) {
+  rawBase = `${rawBase}/api`;
+}
+const API_BASE = rawBase;
+
 
 export async function fetchOverview() {
   const res = await fetch(`${API_BASE}/overview`);
